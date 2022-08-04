@@ -16,8 +16,6 @@
 	2 FreeRTOS  ： 跑了操作系统的多进程，方便对代码更改
 	3 HAL库 ：挺好用，该有的都有
 	
-
-	
 代码结构：
 	Application/MDK-ARM          :
 		startup_stm32f427xx.s ：STM32的启动函数，由ST公司提供
